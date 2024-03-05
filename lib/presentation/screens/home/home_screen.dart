@@ -69,6 +69,10 @@ class _HomeScreenView extends StatelessWidget {
             title: 'Change Notifier Provider',
             subTitle: 'Provider con control de notificación a listeners',
             location: '/change-notifier-provider'),
+        _CustomListTile(
+            title: 'Rutina Screen',
+            subTitle: 'Listado de rutinas',
+            location: '/rutinaScreen'),
       ],
     );
   }
